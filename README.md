@@ -15,10 +15,12 @@ Employee Attrition Forecast
 ## Description
 The dataset from Kaggle.com was used for creating this predictive model https://www.kaggle.com/tejashvi14/employee-future-prediction. A company's HR department wants to predict whether some employees would leave the company in next 2 years. The task is to build a predictive model that predicts the prospects of future and present employee.
 
-Libraries used for EDA: visuals - Matplotlib, Seaborn.
-EDA is performed with the help of PandasProfiling, DataPrep.
+## Libraries used
 
-The task is to build a model to solve a binary classification task on unbalanced data. The following algorithms were used: XGBoost, CatBoost, Random Forest, Light Gradient Boosting Machine, Gradient Boosting, Extremely Randomized Trees, H2O AutoML.
+Visuals - #Matplotlib, Seaborn#.
+EDA is performed with the help of #PandasProfiling, DataPrep#.
+
+The task is to build a model to solve a binary classification task on unbalanced data. The following algorithms were used: # XGBoost, CatBoost, Random Forest, Light Gradient Boosting Machine, Gradient Boosting, Extremely Randomized Trees, H2O AutoML#.
 
 
 ## Installation
