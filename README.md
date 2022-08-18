@@ -25,7 +25,7 @@ Matplotlib, Seaborn
 
 PandasProfiling, DataPrep
 
-##Task
+## Task
 
 The task is to build a model to solve a binary classification task on unbalanced data. 
 
