@@ -9,32 +9,32 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
-## Name
+# Name
 Employee Attrition Forecast
 
-## Description
+# Description
 The dataset from Kaggle.com was used for creating this predictive model https://www.kaggle.com/tejashvi14/employee-future-prediction. A company's HR department wants to predict whether some employees would leave the company in next 2 years. The task is to build a predictive model that predicts the prospects of future and present employee.
 
-## Libraries used
+# Libraries used
 
-# Visuals
+## Visuals
 
 Matplotlib, Seaborn
 
-# EDA
+## EDA
 
 PandasProfiling, DataPrep
 
-## Task
+# Task
 
 The task is to build a model to solve a binary classification task on unbalanced data. 
 
-# Algorithms used
+## Algorithms used
 
 XGBoost, CatBoost, Random Forest, Light Gradient Boosting Machine, Gradient Boosting, Extremely Randomized Trees, H2O AutoML
 
 
-## Installation
+# Installation
 Installation is not required, you can see the whole process in Colab Notebooks.
 
 https://colab.research.google.com/drive/1_INkop2P4lWB47sW0Qx-30w_7Pl7qwzF?hl=en#scrollTo=LQ2rg2oY_Vmb
