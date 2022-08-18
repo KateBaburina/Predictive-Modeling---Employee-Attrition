@@ -18,9 +18,9 @@ The dataset from Kaggle.com was used for creating this predictive model https://
 ## Libraries used
 
 Visuals - #Matplotlib, Seaborn#.
-EDA is performed with the help of #PandasProfiling, DataPrep#.
+EDA is performed with the help of #PandasProfiling, DataPrep.
 
-The task is to build a model to solve a binary classification task on unbalanced data. The following algorithms were used: # XGBoost, CatBoost, Random Forest, Light Gradient Boosting Machine, Gradient Boosting, Extremely Randomized Trees, H2O AutoML#.
+The task is to build a model to solve a binary classification task on unbalanced data. The following algorithms were used: # XGBoost, CatBoost, Random Forest, Light Gradient Boosting Machine, Gradient Boosting, Extremely Randomized Trees, H2O AutoML.
 
 
 ## Installation
